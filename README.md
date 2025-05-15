@@ -1,26 +1,14 @@
+👋 Hi, I'm Kirti,
 
-  👋Hello World! I'm @Kirtiaca, an IT Enthusiast 🌐.
+💻 Final Year Bsc.IT Student | Aspiring Full-Stack Developer | Data Analytics
+📚 Currently building an LMS platform using Django, PostgreSQL & Bootstrap
+🔧 Tech Stack: Python | Django | JavaScript | SQL | React
+📊 Data Tools: Adv. EXcel | Pandas | NumPy | Matplotlib | Seaborn | Power BI
+🤖 Exploring AI integrations and data visualization to enhance user experiences
+🚀 Passionate about building clean, functional web apps and always eager to learn
+📫 Let’s connect: www.linkedin.com/in/kirti-sharma-324175288 | kirtisharma5864@gmail.com
   
-🚀As an aspiring IT professional, I navigate the ever-evolving world of technology with passion and curiosity.
-   My journey involves turning complex problems into elegant, intuitive solutions while constantly seeking opportunities to learn and grow.
 
-🎓 Currently pursuing **Bsc.It at SNDT university, Mumbai**, I'm immersed in the realms of software development and data science.
-   My academic endeavors are complemented by hands-on projects that showcase my creativity and problem-solving prowess.
-
-💻 Tech Toolbox:
-Languages: C++, core Java, Python 
-Tools: - MySql workbench
-       - Jupiter (Python)
-       - Notepad++
-       - VS Code
-
-  🌱 I’m currently learning Advance java ,java script, advance python, UI/UX and many more to upskill my ability. 
-
-I thrive in collaborative environments, where the synergy of diverse minds fuels innovation. Whether it's coding, troubleshooting, or exploring emerging technologies, I'm always up for the challenge!
-
-
-Kirti Sharma
-kirtisharma5864@gmail.com
 
 
 
